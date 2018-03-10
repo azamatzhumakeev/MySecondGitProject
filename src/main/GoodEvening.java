@@ -7,6 +7,8 @@ public class GoodEvening {
 		
 		System.out.println("My name is Azamat");
 		
+		System.out.println("Hello Azamat, You are doing greta job on Git");
+		
 	}
 
 }
